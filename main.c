@@ -1,4 +1,5 @@
 int main(void)
 {
-    puts("Conflict");
+    puts("Normal change");
+    main();
 }
