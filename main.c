@@ -1,4 +1,5 @@
 int main(void)
 {
-    puts("Conflict");
+    puts("My merge conflict is here");
+    close();
 }
